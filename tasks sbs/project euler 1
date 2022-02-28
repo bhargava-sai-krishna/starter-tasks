@@ -1,0 +1,12 @@
+def progression(x):
+    logic = x * (x + 1) // 2
+    return logic
+
+n=int(input())
+for i in range(n):
+    num = int(input())
+    num = num - 1
+    a = num// 3
+    b = num// 5
+    c = num // 15
+    print(3*progression(a)+5*progression(b)-15*progression(c))
