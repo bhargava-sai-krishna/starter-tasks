@@ -1,0 +1,11 @@
+t = int(input())
+for i in range(t):
+    a = int(input())
+    b = 1
+    c = 1
+    d = 0
+    while b + c < a:
+        if (b + c) % 2 == 0:
+            d = d + b + c
+        b, c = c, b + c
+    print(d)
