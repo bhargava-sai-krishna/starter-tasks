@@ -1,0 +1,91 @@
+a:link, a:visited {
+    background-color: #f4e13698;
+    color: rgb(115, 197, 235);
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+#title
+{
+    color: rgb(252, 14, 14);
+    font-size: 300%;
+    text-align: center;
+    font-family: 'Courier New';
+}
+#intro
+{
+    color: rgb(29, 211, 5);
+    text-align: center;
+    font-family: 'Courier New';
+}
+#about
+{
+    color: rgb(7, 31, 243);
+    font-family: 'Lucida Sans';
+}
+#title1
+{
+    color: rgb(252, 14, 14);
+    text-align: center;
+    font-family: 'Courier New';
+}
+#text1
+{
+    color:rgb(16, 73, 4);
+    font-family:Verdana;
+}
+#title2
+{
+    color: rgb(252, 14, 14);
+    text-align: center;
+    font-family: 'Courier New';
+}
+#text2
+{
+    color:rgb(16, 73, 4);
+    font-family:Verdana;
+}
+#answer
+{
+    color: rgb(240, 6, 6);
+    text-align: center;
+    font-size: x-large;    
+}
+#title3
+{
+    color: rgb(252, 14, 14);
+    text-align: center;
+    font-family: 'Courier New';
+}
+#text3
+{
+    color: rgb(16, 73, 4);
+    text-align: center;
+}
+#title4
+{
+    color: rgb(252, 14, 14);
+    text-align: center;
+    font-family: 'Courier New';
+}
+#text4
+{
+    color: rgb(16, 73, 4);
+    font-family: verdana; 
+}
+#title5
+{
+    color: rgb(252, 14, 14);
+    text-align: center;
+    font-family: 'Courier New';
+}
+#text5
+{
+    color: rgb(16, 73, 4);
+    font-family: verdana;
+}
